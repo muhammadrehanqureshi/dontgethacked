@@ -1,4 +1,4 @@
-# 🛡️ Don't Get Hacked — A Simple Cybersecurity Guide (2026)
+# 🛡️ Don't Get Hacked - A Simple Cybersecurity Guide (2026)
 
 > Written by **Muhammad Rehan Qureshi** · Information Security Analyst · CISM | CISSP  
 > Last updated: May 2026 · Based on CISA guidelines, NIST frameworks, and current threat intelligence
