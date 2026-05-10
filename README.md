@@ -3,7 +3,7 @@
 > Written by **Muhammad Rehan Qureshi** · Information Security Analyst · CISM | CISSP  
 > Last updated: May 2026 · Based on CISA guidelines, NIST frameworks, and current threat intelligence
 
-You don't need to be a tech expert to stay safe online. Most successful cyberattacks in 2026 exploit simple, avoidable mistakes — not advanced hacking. Fix the basics first and you're already ahead of most people.
+You don't need to be a tech expert to stay safe online. Most successful cyberattacks in 2026 exploit simple, avoidable mistakes - not advanced hacking. Fix the basics first and you're already ahead of most people.
 
 ---
 
