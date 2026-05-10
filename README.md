@@ -19,17 +19,17 @@ You don't need to be a tech expert to stay safe online. Most successful cyberatt
 
 ## ⚠️ What You're Up Against
 
-**🎣 Phishing** — Fake emails or messages that trick you into clicking a link or handing over your password. They look incredibly real in 2026, often copying your bank's exact style using AI.
+**🎣 Phishing** - Fake emails or messages that trick you into clicking a link or handing over your password. They look incredibly real in 2026, often copying your bank's exact style using AI.
 
-**🦠 Malware** — Malicious software installed on your device, usually from dodgy downloads, fake apps, or suspicious links.
+**🦠 Malware** - Malicious software installed on your device, usually from dodgy downloads, fake apps, or suspicious links.
 
-**🔒 Ransomware** — Hackers lock all your files and demand payment to unlock them. Attacks have surged in 2026. Backups are your best defence.
+**🔒 Ransomware** - Hackers lock all your files and demand payment to unlock them. Attacks have surged in 2026. Backups are your best defence.
 
-**🤖 AI-Powered Attacks** — New and growing in 2026. Hackers use AI to create convincing fake messages, voices, and even video calls impersonating people you trust.
+**🤖 AI-Powered Attacks** - New and growing in 2026. Hackers use AI to create convincing fake messages, voices, and even video calls impersonating people you trust.
 
 ---
 
-## ✅ The Big Fixes — Do These First
+## ✅ The Big Fixes - Do These First
 
 ### 1. 🔑 Use a Password Manager
 **Most important thing you can do.**
@@ -55,7 +55,7 @@ Stop reusing the same password everywhere. A password manager creates a unique, 
 - Banking and finance apps
 - Any app that holds personal or financial data
 
-> 💡 Use an authenticator app like **Google Authenticator** or **Authy** — it's safer than SMS codes.
+> 💡 Use an authenticator app like **Google Authenticator** or **Authy** - it's safer than SMS codes.
 
 ---
 
@@ -78,7 +78,7 @@ Software updates patch security holes that hackers actively exploit. Delaying up
 If a message feels urgent, too good to be true, or pressures you to act fast — slow down. That's exactly what hackers want.
 
 **Before clicking any link:**
-- Hover over it — does the web address look weird or misspelled?
+- Hover over it - does the web address look weird or misspelled?
 - Did you expect this email/message?
 - Is it asking for a password, payment, or personal info?
 
@@ -149,22 +149,22 @@ Copy this and tick things off as you go:
 
 ## 🚨 What To Do If You Get Hacked
 
-1. **Change your passwords immediately** — start with email, then everything else
-2. **Sign out of all active sessions** on the affected account
-3. **Check for suspicious activity** — sent emails, changed settings, unknown logins
-4. **Enable 2FA** if you haven't already
-5. **Scan your device** for malware using Windows Defender or Malwarebytes (free)
-6. **Tell people you know** — hackers often use compromised accounts to target your contacts
-7. **Report it** — to your bank if finances are involved, or to local cybercrime authorities
+1. **Change your passwords immediately** - start with email, then everything else
+2. **Sign out of all active sessions** - on the affected account
+3. **Check for suspicious activity** - sent emails, changed settings, unknown logins
+4. **Enable 2FA** - if you haven't already
+5. **Scan your device** - for malware using Windows Defender or Malwarebytes (free)
+6. **Tell people you know** - hackers often use compromised accounts to target your contacts
+7. **Report it** - to your bank if finances are involved, or to local cybercrime authorities
 
 ---
 
 ## 📚 Trusted Resources
 
 - [CISA — Cybersecurity Basics](https://www.cisa.gov/topics/cybersecurity-best-practices)
-- [haveibeenpwned.com](https://haveibeenpwned.com) — check if your data was leaked
-- [Bitwarden](https://bitwarden.com) — free password manager
-- [ProtonVPN](https://protonvpn.com) — free VPN with no data logging
+- [haveibeenpwned.com](https://haveibeenpwned.com) - check if your data was leaked
+- [Bitwarden](https://bitwarden.com) - free password manager
+- [ProtonVPN](https://protonvpn.com) - free VPN with no data logging
 
 ---
 
