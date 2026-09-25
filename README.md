@@ -168,10 +168,10 @@ Copy this and tick things off as you go:
 
 ---
 
-*This guide is written for everyday people, not IT teams. Cybersecurity doesn't have to be complicated — small habits make a huge difference. Stay safe out there.*
+*This guide is written for everyday people, not IT teams. Cybersecurity doesn't have to be complicated - small habits make a huge difference. Stay safe out there.*
 
 ---
 
 <div align="center">
-  <sub>Written by Muhammad Rehan Qureshi · CISM | CISSP · Information Security Analyst</sub>
+  <sub>Written by Muhammad Rehan Qureshi · CISM | CISSP · Information Security Lead</sub>
 </div>
